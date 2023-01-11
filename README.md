@@ -25,3 +25,7 @@ DOI: (https://doi.org/10.1109/ACCESS.2017.2787200)
 access in the 5G multiuser downlink network. Wireless Communications and Mobile Computing, 2021, 1–11. 
 
 DOI: (https://doi.org/10.1155/2021/8876026)
+
+Khan, A.; Usman, M.A.; Usman, M.R.; Ahmad, M.; Shin, S.-Y. Link and System-Level NOMA Simulator: The Reproducibility of Research. Electronics 2021, 10, 2388. 
+
+DOI: (https://doi.org/10.3390/electronics10192388)
