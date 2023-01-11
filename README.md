@@ -29,3 +29,7 @@ DOI: (https://doi.org/10.1155/2021/8876026)
 [3] Khan, A.; Usman, M.A.; Usman, M.R.; Ahmad, M.; Shin, S.-Y. Link and System-Level NOMA Simulator: The Reproducibility of Research. Electronics 2021, 10, 2388. 
 
 DOI: (https://doi.org/10.3390/electronics10192388)
+
+[4] Ahmad, M., & Shin, S. Y. (2020). Downlink NOMA and OMA Comparison for Power Allocation with Minimum Target Rate. 한국통신학회 학술대회논문집, 210-211.
+
+URL: (https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE10498486&googleIPSandBox=false&mark=0&useDate=&ipRange=false&accessgl=Y&language=ko_KR&hasTopBanner=true)
