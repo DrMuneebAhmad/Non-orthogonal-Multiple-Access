@@ -18,8 +18,10 @@ If my blog assisted you in any way, please do not forget to cite the articles as
 
 [1] S. Baig, M. Ahmad, H. M. Asif, M. N. Shehzad and M. H. Jaffery, "Dual PHY Layer for Non-Orthogonal Multiple Access Transceiver in 5G Networks," in IEEE Access, 
 vol. 6, pp. 3130-3139, 2018.
+
 DOI: (https://doi.org/10.1109/ACCESS.2017.2787200)
 
 [2] Ahmad, M., Baig, S., Asif, H. M., &amp; Raahemifar, K. (2021). Mitigation of imperfect successive interference cancellation and wavelet-based nonorthogonal multiple 
 access in the 5G multiuser downlink network. Wireless Communications and Mobile Computing, 2021, 1–11. 
+
 DOI: (https://doi.org/10.1155/2021/8876026)
